@@ -3,8 +3,8 @@
 ## Screenshots
 
 <span>
-![Screenshot_1722699739](https://github.com/user-attachments/assets/a1d8a610-32bb-4dc7-a830-e1d59b7dc406)
-![Screenshot_1722699750](https://github.com/user-attachments/assets/352facc2-9c61-42c1-a724-087c6d1eb2e9)
+  <img src="https://github.com/user-attachments/assets/a1d8a610-32bb-4dc7-a830-e1d59b7dc406" width="400">
+  <img src="https://github.com/user-attachments/assets/352facc2-9c61-42c1-a724-087c6d1eb2e9" width="400">
 </span>
 
 ## Getting Started
